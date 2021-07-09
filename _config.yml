@@ -6,10 +6,10 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: Mete Can Akar's Personal Website
 
 # Your name to show in the footer
-author: Some Person
+author: Mete Can Akar
 
 # --- List of links in the navigation bar --- #
 
@@ -18,7 +18,7 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Author's home: "https://google.com"
 
 # --- Logo --- #
 
@@ -40,11 +40,11 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+  facebook: blabla
+  github: metecanakar
+  twitter: blabla
+  patreon: blabla
+  youtube: c/blabla
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
