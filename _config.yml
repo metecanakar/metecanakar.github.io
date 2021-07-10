@@ -15,6 +15,7 @@ author: Mete Can Akar
 
 navbar-links:
   About Me: "aboutme"
+  Blog: "blog-list-of-content"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"

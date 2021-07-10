@@ -1,1 +1,1 @@
-This is my first real blog post
+This is my first python post
