@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Blog List of Content
-subtitle: Here is the list
+subtitle: This page is under construction
 ---
 
-
+<!---
 1.  Python
 
     * [First Python Post]({% link _posts/2021-07-10-my-first-blog-post.md %})
@@ -22,3 +22,4 @@ subtitle: Here is the list
 	1. sub-sub-list numbered one
 	2. sub-sub-list numbered two
 
+-->
