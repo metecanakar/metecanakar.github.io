@@ -16,6 +16,8 @@ Python, Spark, Airflow, Azure DevOps, Azure Databricks, Hadoop, Hive, Splunk and
 
 I do kaizen.
 
+Apart from nerding, I like being outside and I am a big fan of exercising (calistenics, basketball, biking, running, swimming etc.)
+
 <!---
 - Test bullet point1
 - Test bullet point2 in case necessary
@@ -24,3 +26,5 @@ I do kaizen.
 ### Resume
 
 My resume be accessed here [my resume ](https://de.linkedin.com/in/metecanakar) and hopefully it will answer **some of** your questions.
+Feel free to contact me via Linkedin if you want to reach out to me.
+
