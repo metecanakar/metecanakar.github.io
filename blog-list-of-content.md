@@ -7,7 +7,7 @@ subtitle: This page is under construction
 <!---
 1.  Python
 
-    * [First Python Post]({% link _posts/2021-07-10-my-first-blog-post.md %})
+    * [First Python Post]({% link _posts/2022-04-15-airflow-commonly-used-commands.md %})
     * sub-bullet two
 
 2.  Continuing the list
