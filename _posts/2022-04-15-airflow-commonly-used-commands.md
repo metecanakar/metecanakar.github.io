@@ -2,9 +2,9 @@
 layout: post
 title: Apache Airflow Commonly Used Commands
 subtitle: 
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
+cover-img: /assets/img/uniknterasse.jpeg
+thumbnail-img: /assets/img/seealpsee1.jpeg
+share-img: /assets/img/seealpsee1.jpeg
 tags: [apache, airflow]
 ---
 
