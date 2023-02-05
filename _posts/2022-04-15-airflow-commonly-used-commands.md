@@ -8,7 +8,7 @@ share-img: /assets/img/seealpsee1.jpeg
 tags: [apache, airflow]
 ---
 
-As all of you know, Apache Airflow is used for scheduling and monitoring (at least I like to use it that way). In this blog post, I will share with you some commonly used commands.
+As all of you know, Apache Airflow is used for orchestration, scheduling and monitoring (at least I like to use it that way). In this blog post, I will share with you some commonly used commands.
 
 <!-- wp:paragraph {"align":"justify"} -->
 <p class="has-text-align-justify"><strong>In order to trigger a DAG which would run the DAG only once (start date and end date are same): </strong></p>
