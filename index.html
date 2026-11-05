@@ -1,5 +1,8 @@
 ---
-layout: home
-title: Hello World!
+layout: page
+title: About me
 subtitle: We are drowning in information, but starving for knowledge - John Naisbitt
 ---
+
+{% assign about_page = site.pages | where: "name", "aboutme.md" | first %}
+{{ about_page.content | markdownify }}

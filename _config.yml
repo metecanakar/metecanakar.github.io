@@ -14,8 +14,8 @@ author: Mete Can Akar
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Blog: "blog-list-of-content"
+  About Me: "/"
+  Blog: "/blog-list-of-content/"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
@@ -199,6 +199,7 @@ markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
 paginate: 5
+paginate_path: "/blog-list-of-content/page:num/"
 
 kramdown:
   input: GFM
